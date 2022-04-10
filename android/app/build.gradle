@@ -47,8 +47,8 @@ android {
         applicationId "com.insightlancer.ipl"
         minSdkVersion 19
         targetSdkVersion flutter.targetSdkVersion
-        versionCode 3
-        versionName "1.2.0"
+        versionCode 7
+        versionName "2.2.0"
         multiDexEnabled true
     }
 

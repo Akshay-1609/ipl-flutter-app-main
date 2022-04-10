@@ -107,7 +107,7 @@ class AdminPanel extends GetWidget<AdminPanelController> {
                   ),
                 ),
               ),
-                Padding(
+               Obx(()=> Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Card(
                   shape: RoundedRectangleBorder(
@@ -118,14 +118,14 @@ class AdminPanel extends GetWidget<AdminPanelController> {
                     child: TextFormField(
                         controller: controller.team1Result,
                         decoration: InputDecoration(
-                            labelText: "Team 1 Score:",
+                            labelText: controller.team1name.value,
                             border: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(15)))),
                   ),
                 ),
-              ),
+              )),
               
-               Padding(
+              Obx(()=> Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Card(
                   shape: RoundedRectangleBorder(
@@ -136,12 +136,12 @@ class AdminPanel extends GetWidget<AdminPanelController> {
                     child: TextFormField(
                         controller: controller.team2Result,
                         decoration: InputDecoration(
-                            labelText: "Team 2 Score:",
+                            labelText: controller.team2name.value,
                             border: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(15)))),
                   ),
                 ),
-              ),
+              )),
               Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Card(

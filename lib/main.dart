@@ -6,6 +6,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
+import 'package:ipl/presentation/adminpanel/binding/adminpanel_binding.dart';
 import 'package:ipl/presentation/homescreen/binding/home_binding.dart';
 import 'package:ipl/routes/app_routes.dart';
 
@@ -96,10 +97,10 @@ late FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin;
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'IPL',
-      // initialBinding: AdminPanelBinding(),
-      // initialRoute: AppRoutes.adminpanelscreen,
-      initialBinding: HomeSCreenBinding(),
-      initialRoute: AppRoutes.splashscreen,
+      initialBinding: AdminPanelBinding(),
+      initialRoute: AppRoutes.adminpanelscreen,
+      // initialBinding: HomeSCreenBinding(),
+      // initialRoute: AppRoutes.splashscreen,
       getPages: AppRoutes.pages,
     );
   }
