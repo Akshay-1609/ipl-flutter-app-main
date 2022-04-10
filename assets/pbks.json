@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Mayank Agarwal",
+        "role": "Batsman"
+    },
+    {
+        "name": "Prerak Mankad",
+        "role": "Batsman"
+    },
+    {
+        "name": "Bhanuka Rajapaksa",
+        "role": "Batsman"
+    },
+    {
+        "name": "Shahrukh Khan",
+        "role": "Batsman"
+    },
+    {
+        "name": "Shikhar Dhawan",
+        "role": "Batsman"
+    },
+    {
+        "name": "Prabhsimran Singh",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Jitesh Sharma",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Jonny Bairstow",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Arshdeep Singh",
+        "role": "Bowler"
+    },
+    {
+        "name": "Writtick Chatterjee",
+        "role": "Bowler"
+    },
+    {
+        "name": "Odean Smith",
+        "role": "Bowler"
+    },
+    {
+        "name": "Sandeep Sharma",
+        "role": "Bowler"
+    },
+    {
+        "name": "Raj Bawa",
+        "role": "Bowler"
+    },
+    {
+        "name": "Nathan Ellis",
+        "role": "Bowler"
+    },
+    {
+        "name": "Vaibhav Arora",
+        "role": "Bowler"
+    },
+    {
+        "name": "Ishan Porel",
+        "role": "Bowler"
+    },
+    {
+        "name": "Harpreet Brar",
+        "role": "Bowler"
+    },
+    {
+        "name": "Rahul Chahar",
+        "role": "Bowler"
+    },
+    {
+        "name": "Kagiso Rabada",
+        "role": "Bowler"
+    },
+    {
+        "name": "Benny Howell",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Baltej Singh",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Ansh Patel",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Liam Livingstone",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Rishi Dhawan",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Atharva Taide",
+        "role": "All-Rounder"
+    }
+]

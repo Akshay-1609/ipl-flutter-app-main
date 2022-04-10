@@ -1,0 +1,42 @@
+[
+    {
+        "name":"CSK",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Fcsk.png?alt=media&token=133e7e6d-9267-4067-9b2c-b3a451b81d83"
+    },
+    {
+        "name":"RR",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Frr.png?alt=media&token=4a55f9d8-e02e-4b8b-b3ff-93f490906ed0"
+    },{
+        "name":"KKR",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Fkkr.png?alt=media&token=415c09fa-9116-4d4d-8c99-4daac6ba5938"
+    },
+    {
+        "name":"MI",
+        "image": "https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Fmi.png?alt=media&token=4d0dedd2-2ef9-4fef-963c-c44b31d74cfb"    
+    },
+    {
+        "name":"RCB",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Frcb.png?alt=media&token=9b095a09-448f-4246-b1e7-d31376987081" 
+    },
+    {
+        "name":"DC",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Fdc.png?alt=media&token=53376382-a5b5-4544-b40b-0abba1e3c004"
+    
+    },
+    {
+        "name":"SRH",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Fsrh.png?alt=media&token=1f80e26a-6ae6-4ac4-b714-b7b30b5bf6e7"
+    },
+    {
+        "name":"LSG",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Flsg.png?alt=media&token=1fe7b329-61a9-426c-affc-820466834a4f"
+    },
+    {
+        "name":"PBKS",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Fpbks.png?alt=media&token=a4467408-cb94-4544-97de-731e929d721d"
+    },
+    {
+        "name":"GT",
+        "image":"https://firebasestorage.googleapis.com/v0/b/indianpremierleague-9063d.appspot.com/o/team%2Fgt.png?alt=media&token=9c1d905c-bde6-40ac-a170-d7ca4ffa721a"
+    }
+]

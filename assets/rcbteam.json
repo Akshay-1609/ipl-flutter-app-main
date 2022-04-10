@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Virat Kohli",
+        "role": "Batsman"
+    },
+    {
+        "name": "Suyash Prabhudessai",
+        "role": "Batsman"
+    },
+    {
+        "name": "Faf du Plessis",
+        "role": "Batsman"
+    },
+    {
+        "name": "Dinesh Karthik",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Anuj Rawat",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Finn Allen",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Luvnith Sisodia",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Mohammed Siraj",
+        "role": "Bowler"
+    },
+    {
+        "name": "Karn Sharma",
+        "role": "Bowler"
+    },
+    {
+        "name": "Jason Behrendorff",
+        "role": "Bowler"
+    },
+    {
+        "name": "Siddarth Kaul",
+        "role": "Bowler"
+    },
+    {
+        "name": "Chama Milind",
+        "role": "Bowler"
+    },
+    {
+        "name": "Josh Hazlewood",
+        "role": "Bowler"
+    },
+    {
+        "name": "Harshal Patel",
+        "role": "Bowler"
+    },
+    {
+        "name": "Akash Deep",
+        "role": "Bowler"
+    },
+    {
+        "name": "Glenn Maxwell",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "David Willey",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Mahipal Lomror",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Sherfane Rutherford",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Aneeshwar Gautam",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Shahbaz Ahmed",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Wanindu Hasaranga",
+        "role": "All-Rounder"
+    }
+
+]

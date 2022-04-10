@@ -1,0 +1,1 @@
+export 'package:ipl/theme/app_decoration.dart';

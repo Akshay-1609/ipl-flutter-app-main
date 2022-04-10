@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Rohit Sharma",
+        "role": "Batsman"
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "role": "Batsman"
+    },
+    {
+        "name": "Tilak Varma",
+        "role": "Batsman"
+    },
+    {
+        "name": "Ramandeep Singh",
+        "role": "Batsman"
+    },
+    {
+        "name": "Rahul Buddhi",
+        "role": "Batsman"
+    },
+    {
+        "name": "Anmolpreet Singh",
+        "role": "Batsman"
+    },
+    {
+        "name": "Dewald Brevis",
+        "role": "Batsman"
+    },
+    {
+        "name": "Aryan Juyal",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Ishan Kishan",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "role": "Bowler"
+    },
+    {
+        "name": "Mohammad Arshad Khan",
+        "role": "Bowler"
+    },
+    {
+        "name": "Jaydev Unadkat",
+        "role": "Bowler"
+    },
+    {
+        "name": "Mayank Markande",
+        "role": "Bowler"
+    },
+    {
+        "name": "Jofra Archer",
+        "role": "Bowler"
+    },
+    {
+        "name": "Tymal Mills",
+        "role": "Bowler"
+    },
+    {
+        "name": "Riley Meredith",
+        "role": "Bowler"
+    },
+    {
+        "name": "Murugan Ashwin",
+        "role": "Bowler"
+    },
+    {
+        "name": "Basil Thampi",
+        "role": "Bowler"
+    },
+    {
+        "name": "Kieron Pollard",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Hrithik Shokeen",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Arjun Tendulkar",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Sanjay Yadav",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Daniel Sams",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Tim David",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Fabian Allen",
+        "role": "All-Rounder"
+    }
+]

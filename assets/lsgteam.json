@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Manan Vohra",
+        "role": "Batsman"
+    },
+    {
+        "name": "Evin Lewis",
+        "role": "Batsman"
+    },
+    {
+        "name": "Manish Pandey",
+        "role": "Batsman"
+    },
+    {
+        "name": "KL Rahul",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Quinton de Kock",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Ravi Bishnoi",
+        "role": "Bowler"
+    },
+    {
+        "name": "Dushmantha Chameera",
+        "role": "Bowler"
+    },
+    {
+        "name": "Shahbaz Nadeem",
+        "role": "Bowler"
+    },
+    {
+        "name": "Mohsin Khan",
+        "role": "Bowler"
+    },
+    {
+        "name": "Mayank Yadav",
+        "role": "Bowler"
+    },
+    {
+        "name": "Ankit Rajpoot",
+        "role": "Bowler"
+    },
+    {
+        "name": "Avesh Khan",
+        "role": "Bowler"
+    },
+    {
+        "name": "Mark Wood",
+        "role": "Bowler"
+    }, {
+        "name": "Marcus Stoinis",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Kyle Mayers",
+        "role": "All-Rounder"
+    }, {
+        "name": "Karan Sharma",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "K Gowtham",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Ayush Badoni",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Deepak Hooda",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Krunal Pandya",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Jason Holder",
+        "role": "All-Rounder"
+    }
+]

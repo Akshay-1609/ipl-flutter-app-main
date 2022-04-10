@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Shubman Gill",
+        "role": "Batsman"
+    },
+    {
+        "name": "Sai Sudarshan",
+        "role": "Batsman"
+    },{
+        "name": "Abhinav Sadarangani",
+        "role": "Batsman"
+    },
+    {
+        "name": "Jason Roy",
+        "role": "Batsman"
+    },
+    {
+        "name": "David Miller",
+        "role": "Batsman"
+    },
+    {
+        "name": "Matthew Wade",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Wriddhiman Saha",
+        "role": "WK-Batsman"
+    }, {
+        "name": "Rashid Khan",
+        "role": "Bowler"
+    },
+    {
+        "name": "Varun Aaron",
+        "role": "Bowler"
+    },
+    {
+        "name": "Darshan Nalkande",
+        "role": "Bowler"
+    },
+    {
+        "name": "Yash Dayal",
+        "role": "Bowler"
+    },
+    {
+        "name": "Pradeep Sangwan",
+        "role": "Bowler"
+    },
+    {
+        "name": "Alzarri Joseph",
+        "role": "Bowler"
+    },
+    {
+        "name": "R Sai Kishore",
+        "role": "Bowler"
+    },
+    {
+        "name": "Noor Ahmad",
+        "role": "Bowler"
+    },  {
+        "name": "Lockie Ferguson",
+        "role": "Bowler"
+    },
+    {
+        "name": "Lockie Ferguson",
+        "role": "Bowler"
+    },{
+        "name": "Mohammed Shami",
+        "role": "Bowler"
+    },
+    {
+        "name": "Hardik Pandya",
+        "role": "All-rounder"
+    },
+    {
+        "name": "Dominic Drakes",
+        "role": "All-rounder"
+    },
+    {
+        "name": "Vijay Shankar",
+        "role": "All-rounder"
+    },
+    {
+        "name": "Jayant Yadav",
+        "role": "All-rounder"
+    },
+    {
+        "name": "Gurkeerat Singh",
+        "role": "All-rounder"
+    },
+    {
+        "name": "Mann",
+        "role": "All-rounder"
+    },
+    {
+        "name": "Rahul Tewatia",
+        "role": "All-rounder"
+    }
+]

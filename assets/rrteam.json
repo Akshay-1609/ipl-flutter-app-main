@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Yashasvi Jaiswal",
+        "role": "Batsman"
+    },
+    {
+        "name": "Karun Nair",
+        "role": "Batsman"
+    },
+    {
+        "name": "Rassie van der Dussen",
+        "role": "Batsman"
+    },
+    {
+        "name": "Devdutt Padikkal",
+        "role": "Batsman"
+    },
+    {
+        "name": "Shimron Hetmyer",
+        "role": "Batsman"
+    },
+    {
+        "name": "Sanju Samson",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Sanju Samson",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Jos Buttler",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Dhruv Jurel",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Shubham Garhwal",
+        "role": "Bowler"
+    },
+    {
+        "name": "Kuldip Yadav",
+        "role": "Bowler"
+    },
+    {
+        "name": "Nathan Coulter-Nile",
+        "role": "Bowler"
+    },
+    {
+        "name": "Navdeep Saini",
+        "role": "Bowler"
+    },
+    {
+        "name": "Kuldeep Sen",
+        "role": "Bowler"
+    },
+    {
+        "name": "Obed McCoy",
+        "role": "Bowler"
+    },
+    {
+        "name": "Tejas Baroka",
+        "role": "Bowler"
+    },
+    {
+        "name": "KC Kariappa",
+        "role": "Bowler"
+    },
+    {
+        "name": "Yuzvendra Chahal",
+        "role": "Bowler"
+    },
+    {
+        "name": "Prasidh Krishna",
+        "role": "Bowler"
+    },
+    {
+        "name": "Trent Boult",
+        "role": "Bowler"
+    },
+    {
+        "name": "Anunay Singh",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "James Neesham",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Daryl Mitchell",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Riyan Parag",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Ravichandran Ashwin",
+        "role": "All-Rounder"
+    }
+]

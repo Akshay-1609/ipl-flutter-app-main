@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Kane Williamson",
+        "role": "Batsman"
+    },
+    {
+        "name": "Aiden Markram",
+        "role": "Batsman"
+    },
+    {
+        "name": "Shashank Singh",
+        "role": "Batsman"
+    },
+    {
+        "name": "R Samarth",
+        "role": "Batsman"
+    },
+    {
+        "name": "Rahul Tripathi",
+        "role": "Batsman"
+    },
+    {
+        "name": "Priyam Garg",
+        "role": "Batsman"
+    },
+    {
+        "name": "Glenn Phillips",
+        "role": "WK-Batsman"
+    },
+    {
+        "name": "Vishnu Vinod",
+        "role": "Wk-Batsman"
+    },
+    {
+        "name": "Nicholas Pooran",
+        "role": "Wk-Batsman"
+    },
+    {
+        "name": "Umran Malik",
+        "role": "Bowler"
+    },
+    {
+        "name": "Saurabh Dubey",
+        "role": "Bowler"
+    },
+    {
+        "name": "Romario Shepherd",
+        "role": "Bowler"
+    },
+    {
+        "name": "Fazal Haq Farooqi",
+        "role": "Bowler"
+    },
+    {
+        "name": "J Suchith",
+        "role": "Bowler"
+    },
+    {
+        "name": "Shreyas Gopal",
+        "role": "Bowler"
+    },
+    {
+        "name": "Kartik Tyagi",
+        "role": "Bowler"
+    },
+    {
+        "name": "T Natarajan",
+        "role": "Bowler"
+    },
+    {
+        "name": "Bhuvneshwar Kumar",
+        "role": "Bowler"
+    },
+    {
+        "name": "Abdul Samad",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Marco Jansen",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Sean Abbott",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Abhishek Sharma",
+        "role": "All-Rounder"
+    },
+    {
+        "name": "Washington Sundar",
+        "role": "Bowler"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "name":"Rishabh Pant",
+        "role":"WT-Batsman"
+    },
+    {
+        "name":"Prithvi Shaw",
+        "role":"Batsman"
+    },
+    {
+        "name":"David Warner",
+        "role":"Batsman"
+    },
+    {
+        "name":"Ashwin Hebbar",
+        "role":"Batsman"
+    },
+    {
+        "name":"Sarfaraz Khan",
+        "role":"Batsman"
+    },{
+        "name":"KS Bharat",
+        "role":"WK-Batsman"
+    },
+    {
+        "name":"Yash Dhull",
+        "role":"Batsman"
+    },{
+        "name":"Mandeep Singh",
+        "role":"Batsman"
+    },
+    {
+        "name":"Rovman Powell",
+        "role":"Batsman"
+    },
+    {
+        "name":"Tim Seifert",
+        "role":"WK-Batsman"
+    },
+    {
+        "name":"Anrich Nortje",
+        "role":"Bowler"
+    },
+    {
+        "name":"Shardul Thakur",
+        "role":"Bowler"
+    },
+    {
+        "name":"Kamlesh Nagarkoti",
+        "role":"Bowler"
+    },
+    {
+        "name":"Mustafizur Rahman",
+        "role":"Bowler"
+    },
+    {
+        "name":"Lungi Ngidi",
+        "role":"Bowler"
+    },
+    {
+        "name":"Khaleel Ahmed",
+        "role":"Bowler"
+    },
+    {
+        "name":"Chetan Sakariya",
+        "role":"Bowler"
+    },
+    {
+        "name":"Praveen Dubey",
+        "role":"Bowler"
+    }, {
+        "name":"Kuldeep Yadav",
+        "role":"Bowler"
+    },
+    {
+        "name":"Axar Patel",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Mitchell Marsh",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Lalit Yadav",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Ripal Patel",
+        "role":"All-Rounder"
+    }, {
+        "name":"Vicky Ostwal",
+        "role":"All-Rounder"
+    }
+]

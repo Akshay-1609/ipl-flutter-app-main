@@ -1,0 +1,102 @@
+[
+    {
+        "name":"M S Dhoni",
+        "role":"WK-Batsman"
+    },
+    {
+        "name":"Ruturaj Gaikwad",
+        "role":"Batsman"
+    },
+    {
+        "name":"Robin Uthappa",
+        "role":"Batsman"
+    },
+    {
+        "name":"Ambati Rayudu",
+        "role":"WK- Batsman"
+    },
+    {
+        "name":"Devon Conway",
+        "role":"Batsman"
+    },
+    {
+        "name":"Subhranshu Senapati",
+        "role":"Batsman"
+    },
+    {
+        "name":"Hari Nishaanth",
+        "role":"Batsman"
+    },
+    {
+        "name":"N Jagadeesan",
+        "role":"WK- Batsman"
+    },
+    {
+        "name":"Deepak Chahar",
+        "role":"Bowler"
+    },
+    {
+        "name":"KM Asif",
+        "role":"Bowler"
+    },
+    {
+        "name":"Tushar Deshpande",
+        "role":"Bowler"
+    },
+    {
+        "name":"Maheesh Theekshana",
+        "role":"Bowler"
+    },
+    {
+        "name":"Simranjeet Singh",
+        "role":"Bowler"
+    },
+    {
+        "name":"Adam Milne",
+        "role":"Bowler"
+    },
+    {
+        "name":"Mukesh Choudhary",
+        "role":"Bowler"
+    },
+    {
+        "name":"Prashant Solanki",
+        "role":"Bowler"
+    },
+    {
+        "name":"Mitchell Santner",
+        "role":"Bowler"
+    },
+    {
+        "name":"Rajvardhan Hangargekar",
+        "role":"Bowler"
+    },
+    {
+        "name":"Ravindra Jadeja",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Moeen Ali",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Dwayne Bravo",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Shivam Dube",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Dwaine Pretorius",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Bhagath Varma",
+        "role":"All-Rounder"
+    },
+    {
+        "name":"Chris Jordan",
+        "role":"All-Rounder"
+    }
+]
