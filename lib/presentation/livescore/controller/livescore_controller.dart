@@ -60,100 +60,136 @@ class LiveScoreController extends GetxController {
               data["livescore"]["update"] != "Data Not Found"
                   ? data["livescore"]["update"]
                   : livematchupdate.value;
-          batsman1.value = data["livescore"]["batsman"] != "Data Not Found"
-              ? data["livescore"]["batsman"]
-              : batsman1.value;
-          batsman2.value = data["livescore"]["batsmantwo"] != "Data Not Found"
-              ? data["livescore"]["batsmantwo"]
-              : batsman2.value;
-          batsman1R.value = data["livescore"]["batsmanrun"] != "Data Not Found"
-              ? data["livescore"]["batsmanrun"]
-              : batsman1R.value;
-          batsman2R.value =
-              data["livescore"]["batsmantworun"] != "Data Not Found"
-                  ? data["livescore"]["batsmantworun"]
-                  : batsman2R.value;
-          batsman1B.value = data["livescore"]["ballsfaced"] != "Data Not Found"
-              ? data["livescore"]["ballsfaced"]
-              : batsman1B.value;
-          batsman2B.value =
-              data["livescore"]["batsmantwoballsfaced"] != "Data Not Found"
-                  ? data["livescore"]["batsmantwoballsfaced"]
-                  : batsman2B.value;
-          batsman14s.value = data["livescore"]["fours"] != "Data Not Found"
-              ? data["livescore"]["fours"]
-              : batsman14s.value;
-          batsman24s.value =
-              data["livescore"]["batsmantwofours"] != "Data Not Found"
-                  ? data["livescore"]["batsmantwofours"]
-                  : batsman24s.value;
-          batsman16s.value = data["livescore"]["sixes"] != "Data Not Found"
-              ? data["livescore"]["sixes"]
-              : batsman16s.value;
-          batsman26s.value =
-              data["livescore"]["batsmantwosixes"] != "Data Not Found"
-                  ? data["livescore"]["batsmantwosixes"]
-                  : batsman26s.value;
-          batsman1sr.value = data["livescore"]["sr"] != "Data Not Found"
-              ? data["livescore"]["sr"]
-              : batsman1sr.value;
-          batsman2sr.value =
-              data["livescore"]["batsmantwosr"] != "Data Not Found"
-                  ? data["livescore"]["batsmantwosr"]
-                  : batsman2sr.value;
-          partnership.value =
-              data["livescore"]["partnership"] != "Data Not Found"
-                  ? data["livescore"]["partnership"]
-                  : partnership.value;
-          // Batsman All Data Fatched by Json File
-          bolwer1.value = data["livescore"]["bowler"] != "Data Not Found"
-              ? data["livescore"]["bowler"]
-              : bolwer1.value;
-          bolwer2.value = data["livescore"]["bowlertwo"] != "Data Not Found"
-              ? data["livescore"]["bowlertwo"]
-              : bolwer2.value;
-          bowler1O.value = data["livescore"]["bowlerover"] != "Data Not Found"
-              ? data["livescore"]["bowlerover"]
-              : bowler1O.value;
-          bowler2O.value =
-              data["livescore"]["bowletworover"] != "Data Not Found"
-                  ? data["livescore"]["bowletworover"]
-                  : bowler2O.value;
-          bowler1M.value = data["livescore"]["bowlermaiden"] != "Data Not Found"
-              ? data["livescore"]["bowlermaiden"]
-              : bowler1M.value;
-          bowler2M.value =
-              data["livescore"]["bowlertwomaiden"] != "Data Not Found"
-                  ? data["livescore"]["bowlertwomaiden"]
-                  : bowler2M.value;
-          bolwer1R.value = data["livescore"]["bowlerruns"] != "Data Not Found"
-              ? data["livescore"]["bowlerruns"]
-              : bolwer1R.value;
-          bolwer2R.value =
-              data["livescore"]["bowlertworuns"] != "Data Not Found"
-                  ? data["livescore"]["bowlertworuns"]
-                  : bolwer2R.value;
-          bolwer1W.value =
-              data["livescore"]["bowlerwickets"] != "Data Not Found"
-                  ? data["livescore"]["bowlerwickets"]
-                  : bolwer1W.value;
-          bolwer2W.value =
-              data["livescore"]["bowlertwowickets"] != "Data Not Found"
-                  ? data["livescore"]["bowlertwowickets"]
-                  : bolwer2W.value;
-          // Chnages here....
+
+          // Batsman 1 all detials
+          if (data["livescore"]["batsman"] != "Data Not Found") {
+            batsman1.value = data["livescore"]["batsman"] != "Data Not Found"
+                ? data["livescore"]["batsman"]
+                : batsman1.value;
+            batsman1R.value =
+                data["livescore"]["batsmanrun"] != "Data Not Found"
+                    ? data["livescore"]["batsmanrun"]
+                    : batsman1R.value;
+            batsman1B.value =
+                data["livescore"]["ballsfaced"] != "Data Not Found"
+                    ? data["livescore"]["ballsfaced"]
+                    : batsman1B.value;
+            batsman14s.value = data["livescore"]["fours"] != "Data Not Found"
+                ? data["livescore"]["fours"]
+                : batsman14s.value;
+            batsman1sr.value = data["livescore"]["sr"] != "Data Not Found"
+                ? data["livescore"]["sr"]
+                : batsman1sr.value;
+            batsman16s.value = data["livescore"]["sixes"] != "Data Not Found"
+                ? data["livescore"]["sixes"]
+                : batsman16s.value;
+          }
+
+          // Batsman 2 all detials
+          if (data["livescore"]["batsmantwo"] != "Data Not Found") {
+            batsman2.value = data["livescore"]["batsmantwo"] != "Data Not Found"
+                ? data["livescore"]["batsmantwo"]
+                : batsman2.value;
+
+            batsman2R.value =
+                data["livescore"]["batsmantworun"] != "Data Not Found"
+                    ? data["livescore"]["batsmantworun"]
+                    : batsman2R.value;
+
+            batsman2B.value =
+                data["livescore"]["batsmantwoballsfaced"] != "Data Not Found"
+                    ? data["livescore"]["batsmantwoballsfaced"]
+                    : batsman2B.value;
+
+            batsman24s.value =
+                data["livescore"]["batsmantwofours"] != "Data Not Found"
+                    ? data["livescore"]["batsmantwofours"]
+                    : batsman24s.value;
+
+            batsman26s.value =
+                data["livescore"]["batsmantwosixes"] != "Data Not Found"
+                    ? data["livescore"]["batsmantwosixes"]
+                    : batsman26s.value;
+
+            batsman2sr.value =
+                data["livescore"]["batsmantwosr"] != "Data Not Found"
+                    ? data["livescore"]["batsmantwosr"]
+                    : batsman2sr.value;
+
+            partnership.value =
+                data["livescore"]["partnership"] != "Data Not Found"
+                    ? data["livescore"]["partnership"]
+                    : partnership.value;
+          }
+
+          // Bowler 1 all detials
+          if (data["livescore"]["bowler"] != "Data Not Found") {
+            bolwer1.value = data["livescore"]["bowler"] != "Data Not Found"
+                ? data["livescore"]["bowler"]
+                : bolwer1.value;
+            bowler1O.value = data["livescore"]["bowlerover"] != "Data Not Found"
+                ? data["livescore"]["bowlerover"]
+                : bowler1O.value;
+            bowler1M.value =
+                data["livescore"]["bowlermaiden"] != "Data Not Found"
+                    ? data["livescore"]["bowlermaiden"]
+                    : bowler1M.value;
+
+            bolwer1R.value = data["livescore"]["bowlerruns"] != "Data Not Found"
+                ? data["livescore"]["bowlerruns"]
+                : bolwer1R.value;
+            bolwer1W.value =
+                data["livescore"]["bowlerwickets"] != "Data Not Found"
+                    ? data["livescore"]["bowlerwickets"]
+                    : bolwer1W.value;
+          }
+
+          // Bowler 2 all detials
+          if (data["livescore"]["bowlertwo"] != "Data Not Found") {
+            bolwer2.value = data["livescore"]["bowlertwo"] != "Data Not Found"
+                ? data["livescore"]["bowlertwo"]
+                : bolwer2.value;
+
+            bowler2O.value =
+                data["livescore"]["bowletworover"] != "Data Not Found"
+                    ? data["livescore"]["bowletworover"]
+                    : bowler2O.value;
+
+            bowler2M.value =
+                data["livescore"]["bowlertwomaiden"] != "Data Not Found"
+                    ? data["livescore"]["bowlertwomaiden"]
+                    : bowler2M.value;
+
+            bolwer2R.value =
+                data["livescore"]["bowlertworuns"] != "Data Not Found"
+                    ? data["livescore"]["bowlertworuns"]
+                    : bolwer2R.value;
+
+            bolwer2W.value =
+                data["livescore"]["bowlertwowickets"] != "Data Not Found"
+                    ? data["livescore"]["bowlertwowickets"]
+                    : bolwer2W.value;
+          }
+
+          // Last wkt & Recent Ball Bug fix here...
           if ((data["livescore"]["lastwicket"]).toString().contains("...")) {
             recentballs.value =
                 data["livescore"]["lastwicket"] != "Data Not Found"
                     ? data["livescore"]["lastwicket"]
                     : recentballs.value;
-          } else {
+          } else if (data["livescore"]["lastwicket"].toString().contains("-") || data["livescore"]["lastwicket"].toString().contains("ov.")) {
             lastwicket.value =
                 data["livescore"]["lastwicket"] != "Data Not Found"
                     ? data["livescore"]["lastwicket"]
                     : lastwicket.value;
+          } else {
+            recentballs.value =
+                data["livescore"]["lastwicket"] != "Data Not Found"
+                    ? data["livescore"]["lastwicket"]
+                    : recentballs.value;
           }
 
+          //Result Data Updataed in Database After Compeletation of Match
           if (data['livescore']['teamone'] != 'Data Not Found' &&
               data['livescore']['teamtwo'] != 'Data Not Found') {
             var collection = Get.find<HomeScreenController>().collection;
@@ -163,8 +199,11 @@ class LiveScoreController extends GetxController {
                 modify
                     .set('Result', data["livescore"]["update"])
                     .set('team1_result', data["livescore"]["teamone"])
+                    .set('Match_Done', "0")
                     .set('team2_result', data["livescore"]["teamtwo"]),
                 multiUpdate: true);
+            Get.find<HomeScreenController>().todaymatch();
+            Get.back();
           }
         }
 

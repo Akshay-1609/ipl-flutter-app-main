@@ -40,9 +40,10 @@ class HomeScreenController extends GetxController {
             (value) => {
               log("MongoDB is connected"),
               collection = db.collection('schedule'),
+              scheduleDataFatchFromFirebase()
             },
           );
-    // ignore: empty_catches
+      // ignore: empty_catches
     } catch (e) {}
   }
 
@@ -66,7 +67,6 @@ class HomeScreenController extends GetxController {
       x.forEach((items) => {scheduleList.add(items)});
       resultFilterData();
     }
-
   }
 
   resultFilterData() {
@@ -101,11 +101,11 @@ class HomeScreenController extends GetxController {
       await scheduleDataFatchFromFirebase();
       await Get.toNamed(AppRoutes.schedulescreen);
     } else if (value == "Result") {
-      await resultFilterData();
+      await scheduleDataFatchFromFirebase();
       await Get.toNamed(AppRoutes.resultscreen);
     } else if (value == "Teams") {
-      await Get.toNamed(AppRoutes.teamscreen);
       await getteamdetail();
+      await Get.toNamed(AppRoutes.teamscreen);
     } else if (value == "Live Score") {
       await todaymatch();
       await Get.toNamed(AppRoutes.livescorescreen);

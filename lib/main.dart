@@ -97,10 +97,10 @@ late FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin;
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'IPL',
-      initialBinding: AdminPanelBinding(),
-      initialRoute: AppRoutes.adminpanelscreen,
-      // initialBinding: HomeSCreenBinding(),
-      // initialRoute: AppRoutes.splashscreen,
+      // initialBinding: AdminPanelBinding(),
+      // initialRoute: AppRoutes.adminpanelscreen,
+      initialBinding: HomeSCreenBinding(),
+      initialRoute: AppRoutes.splashscreen,
       getPages: AppRoutes.pages,
     );
   }

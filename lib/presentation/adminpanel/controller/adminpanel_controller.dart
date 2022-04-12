@@ -151,7 +151,8 @@ class AdminPanelController extends GetxController {
                 .set('Result', matchResultController.text)
                 .set('team1_result', team1Result.text)
                 .set('Match_Done', matchDone.text)
-                .set('team2_result', team2Result.text),
+                .set('team2_result', team2Result.text)
+                  .set('liveurl', liveUrlController.text),
             multiUpdate: true);
 
         await Get.defaultDialog(
