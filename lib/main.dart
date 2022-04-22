@@ -96,11 +96,11 @@ late FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin;
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'IPL',
-      // initialBinding: AdminPanelBinding(),
-      // initialRoute: AppRoutes.adminpanelscreen,
-      initialBinding: HomeSCreenBinding(),
-      initialRoute: AppRoutes.splashscreen,
+      title: 'IPL 2022',
+      initialBinding: AdminPanelBinding(),
+      initialRoute: AppRoutes.adminpanelscreen,
+      // initialBinding: HomeSCreenBinding(),
+      // initialRoute: AppRoutes.splashscreen,
       getPages: AppRoutes.pages,
     );
   }

@@ -159,6 +159,25 @@ class AdminPanel extends GetWidget<AdminPanelController> {
                   ),
                 ),
               ),
+                IgnorePointer(
+                  child: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Card(
+                    shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(15)),
+                    elevation: 7,
+                    // color: ColorConstant.lightred,
+                    child: SizedBox(
+                      child: TextFormField(
+                          controller: controller.matchDateController,
+                          decoration: InputDecoration(
+                              labelText: "Match Date:",
+                              border: OutlineInputBorder(
+                                  borderRadius: BorderRadius.circular(15)))),
+                    ),
+                  ),
+                              ),
+                ),
               
             ],
           ),

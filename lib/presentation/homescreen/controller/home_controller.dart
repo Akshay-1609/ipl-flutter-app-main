@@ -102,6 +102,7 @@ class HomeScreenController extends GetxController {
       await Get.toNamed(AppRoutes.schedulescreen);
     } else if (value == "Result") {
       await scheduleDataFatchFromFirebase();
+      await resultFilterData();
       await Get.toNamed(AppRoutes.resultscreen);
     } else if (value == "Teams") {
       await getteamdetail();

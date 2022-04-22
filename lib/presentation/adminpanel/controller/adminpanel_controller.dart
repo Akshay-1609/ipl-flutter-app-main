@@ -1,9 +1,6 @@
 // ignore_for_file: prefer_const_constructors, curly_braces_in_flow_control_structures
-
 import 'dart:developer';
-
 import 'package:connectivity_wrapper/connectivity_wrapper.dart';
-import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:mongo_dart/mongo_dart.dart';
@@ -13,6 +10,7 @@ class AdminPanelController extends GetxController {
   var team2name = 'Team 2'.obs;
   var collection;
   var matchNoController = TextEditingController().obs();
+   var matchDateController = TextEditingController().obs();
   var liveUrlController = TextEditingController().obs();
   var team1Result = TextEditingController().obs();
   var team2Result = TextEditingController().obs();
@@ -74,6 +72,7 @@ class AdminPanelController extends GetxController {
           team2name.value = x[0]['team2'];
           team2Result.text = x[0]['team2_result'];
           matchResultController.text = x[0]['Result'];
+          matchDateController.text = x[0]["Match_date"];
         } catch (e) {
           Get.defaultDialog(
               backgroundColor: Colors.transparent,
